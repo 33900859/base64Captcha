@@ -1,4 +1,4 @@
-module github.com/mojocn/base64Captcha
+module github.com/33900859/base64Captcha
 
 go 1.12
 
